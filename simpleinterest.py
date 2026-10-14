@@ -10,4 +10,5 @@ if __name__ == "__main__":
     t = int(sys.argv[3])
 
     print("Simple interest is:", simple_interest(p, i, t))
+    print(p,i,t)
 
